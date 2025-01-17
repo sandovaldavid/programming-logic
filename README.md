@@ -34,7 +34,7 @@ Aprender los fundamentos de la programación a través de JavaScript, incluyendo
 - Alert y prompt
 - Cambiando el valor de las variables
 - ¿Dónde está el error?
-- Desafío 01
+- [Desafío 01](https://github.com/sandovaldavid/programming-logic/blob/01_class/desafio_01.js)
 
 ### Módulo 2: Condicionales y concatenación
 
