@@ -84,7 +84,7 @@ El "Juego del Número Secreto" es una aplicación web interactiva donde:
 
 ## 🎓 Certificación
 
-[Certificado]("")
+[Certificado](https://app.aluracursos.com/certificate/sandovaldavid2201/logica-programacion-sumergete-programacion-javascript)
 
 ## 👨‍💻 Formación
 
